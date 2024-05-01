@@ -18,6 +18,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+
+![Screen%20Recording%20-%20May%201%2C%202024](https://github.com/Hevander27/SoccerChants/assets/45948489/58db5a43-e6d5-4f8c-ab3f-3dbfa78241ae)
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
