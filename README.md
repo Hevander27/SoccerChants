@@ -1,9 +1,8 @@
 # SoccerChants
-This app present the team chants for popular soccer teams.
 
 Created by: **Hevander Da Costa**
 
-**SoccerChants** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
+**SoccerChants** is an iOS app that allows users to learn the soccer chant of their favorite teams.
 
 Time spent: **2** hours spent in total
 
@@ -11,10 +10,8 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **User has 3 chances to guess a random 4 letter word**
-- [ ] **After 3 guesses, user should no longer be able to submit another guess**
-- [ ] **After each guess, user sees the "correctness" of the guess**
-- [ ] **After all guesses are taken, user can see the target word displayed**
+- [ ] User can scroll through the UI to see the history of popular teams
+- [ ] Pressing the button on each cell will play the team chant
 
 
 ## Video Walkthrough
